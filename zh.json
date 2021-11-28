@@ -19,6 +19,8 @@
 	"menu.text.settings": "设置",
 	"menu.text.vpn": "虚拟专用网",
 	"menu.text.wallet": "钱包",
+	"meta.dashboard.heading": "勒索仪表板",
+	"meta.dashboard.title": "Lethean (LTHN)",
 	"plugin.lthn.daemons.lethean-blockchain-export": "区块链导出",
 	"plugin.lthn.daemons.lethean-blockchain-import": "区块链导入",
 	"plugin.lthn.daemons.lethean-wallet-cli": "钱包命令行界面",

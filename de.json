@@ -19,6 +19,8 @@
 	"menu.text.settings": "die Einstellungen",
 	"menu.text.vpn": "VPN",
 	"menu.text.wallet": "Brieftasche",
+	"meta.dashboard.heading": "Lethean-Dashboard",
+	"meta.dashboard.title": "Lethean (LTHN)",
 	"plugin.lthn.daemons.lethean-blockchain-export": "Blockchain-Export",
 	"plugin.lthn.daemons.lethean-blockchain-import": "Blockchain-Import",
 	"plugin.lthn.daemons.lethean-wallet-cli": "Brieftasche CLI",

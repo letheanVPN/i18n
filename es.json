@@ -19,6 +19,8 @@
 	"menu.text.settings": "Ajustes",
 	"menu.text.vpn": "VPN",
 	"menu.text.wallet": "billetera",
+	"meta.dashboard.heading": "Panel de Lethean",
+	"meta.dashboard.title": "Lethean (LTHN)",
 	"plugin.lthn.daemons.lethean-blockchain-export": "Exportación de Blockchain",
 	"plugin.lthn.daemons.lethean-blockchain-import": "Importación de Blockchain",
 	"plugin.lthn.daemons.lethean-wallet-cli": "CLI de Wallet",
