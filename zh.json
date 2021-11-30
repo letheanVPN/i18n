@@ -46,6 +46,7 @@
 	"plugin.lthn.wallet.titles.new-wallet": "创建新钱包",
 	"plugin.lthn.wallet.titles.restore-keys": "恢复钱包(密钥)",
 	"plugin.lthn.wallet.titles.restore-seed": "恢复钱包(种子)",
+	"plugin.lthn.wallet.titles.wallet-transactions": "钱包交易",
 	"view.chain.description": "Lethean (LTHN) 区块链统计",
 	"view.chain.heading": "Lethean 区块链统计数据",
 	"view.chain.title": "区块链统计 - Lethean (LTHN)",

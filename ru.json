@@ -46,6 +46,7 @@
 	"plugin.lthn.wallet.titles.new-wallet": "Сделать новый кошелек",
 	"plugin.lthn.wallet.titles.restore-keys": "Восстановить из ключей",
 	"plugin.lthn.wallet.titles.restore-seed": "Восстановить из seed",
+	"plugin.lthn.wallet.titles.wallet-transactions": "Кошелек транзакции",
 	"view.chain.description": "Статистика блокчейна Lethean (LTHN)",
 	"view.chain.heading": "Статистика Lethean Blockchain",
 	"view.chain.title": "Статистика блокчейна - Lethean (LTHN)",

@@ -46,6 +46,7 @@
 	"plugin.lthn.wallet.titles.new-wallet": "Créer un nouveau portefeuille",
 	"plugin.lthn.wallet.titles.restore-keys": "Restaurer à partir des clés",
 	"plugin.lthn.wallet.titles.restore-seed": "Restaurer à partir de la graine",
+	"plugin.lthn.wallet.titles.wallet-transactions": "Transactions de portefeuille",
 	"view.chain.description": "Statistiques de la chaîne de blocs Lethean (LTHN)",
 	"view.chain.heading": "Statistiques Lethean Blockchain",
 	"view.chain.title": "Statistiques Blockchain - Lethean (LTHN)",

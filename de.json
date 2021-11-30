@@ -46,6 +46,7 @@
 	"plugin.lthn.wallet.titles.new-wallet": "Neue Brieftasche erstellen",
 	"plugin.lthn.wallet.titles.restore-keys": "Von Schlüsseln wiederherstellen",
 	"plugin.lthn.wallet.titles.restore-seed": "Wiederherstellung aus Samen",
+	"plugin.lthn.wallet.titles.wallet-transactions": "Wallet-Transaktionen",
 	"view.chain.description": "Lethean (LTHN) Blockchain-Statistiken",
 	"view.chain.heading": "Lethean Blockchain-Statistiken",
 	"view.chain.title": "Blockchain-Statistiken - Lethean (LTHN)",

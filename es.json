@@ -46,6 +46,7 @@
 	"plugin.lthn.wallet.titles.new-wallet": "Crear nueva billetera",
 	"plugin.lthn.wallet.titles.restore-keys": "Restaurar desde claves",
 	"plugin.lthn.wallet.titles.restore-seed": "Restaurar de semilla",
+	"plugin.lthn.wallet.titles.wallet-transactions": "Transacciones de billetera",
 	"view.chain.description": "Estadísticas de Blockchain de Lethean (LTHN)",
 	"view.chain.heading": "Estadísticas de Lethean Blockchain",
 	"view.chain.title": "Estadísticas de Blockchain - Lethean (LTHN)",
