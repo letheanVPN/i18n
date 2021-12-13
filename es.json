@@ -95,5 +95,16 @@
 	"words.things.menu": "menú",
 	"words.things.mining-pool": "Pool de minería",
 	"words.things.page": "Página",
-	"words.things.problem": "Problema"
+	"words.things.problem": "Problema",
+	"words.time.past.day": "HACE UN DIA",
+	"words.time.past.days": "hace días",
+	"words.time.past.hour": "hace una hora",
+	"words.time.past.hours": "horas atras",
+	"words.time.past.minute": "hace un minuto",
+	"words.time.past.minutes": "hace minutos",
+	"words.time.past.month": "hace un mes",
+	"words.time.past.months": " Hace meses",
+	"words.time.past.seconds": "hace unos segundos",
+	"words.time.past.year": "hace un año",
+	"words.time.past.years": "Hace años que"
 }

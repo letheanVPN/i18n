@@ -95,5 +95,16 @@
 	"words.things.menu": "menu",
 	"words.things.mining-pool": "Piscine minière",
 	"words.things.page": "Page",
-	"words.things.problem": "Problème"
+	"words.things.problem": "Problème",
+	"words.time.past.day": "il y a un jour",
+	"words.time.past.days": "il y a quelques jours",
+	"words.time.past.hour": "il y a une heure",
+	"words.time.past.hours": "il y a des heures",
+	"words.time.past.minute": "Il y'a une minute",
+	"words.time.past.minutes": "il y a quelques minutes",
+	"words.time.past.month": "il y a un mois",
+	"words.time.past.months": " il y a des mois",
+	"words.time.past.seconds": "il ya quelques secondes",
+	"words.time.past.year": "il y a un an",
+	"words.time.past.years": "il y a des années"
 }

@@ -95,5 +95,16 @@
 	"words.things.menu": "Speisekarte",
 	"words.things.mining-pool": "Bergbaupool",
 	"words.things.page": "Seite",
-	"words.things.problem": "Problem"
+	"words.things.problem": "Problem",
+	"words.time.past.day": "vor einem Tag",
+	"words.time.past.days": "Vor Tagen",
+	"words.time.past.hour": "vor einer Stunde",
+	"words.time.past.hours": "Vor Stunden",
+	"words.time.past.minute": "vor einer Minute",
+	"words.time.past.minutes": "Vor ein paar Minuten",
+	"words.time.past.month": "vor einem Monat",
+	"words.time.past.months": " vor wenigen Monaten",
+	"words.time.past.seconds": "vor ein paar Sekunden",
+	"words.time.past.year": "vor einem Jahr",
+	"words.time.past.years": "vor Jahren"
 }

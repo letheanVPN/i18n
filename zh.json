@@ -95,5 +95,16 @@
 	"words.things.menu": "菜单",
 	"words.things.mining-pool": "矿池",
 	"words.things.page": "页面",
-	"words.things.problem": "问题"
+	"words.things.problem": "问题",
+	"words.time.past.day": "一天前",
+	"words.time.past.days": "几天前",
+	"words.time.past.hour": "一小时前",
+	"words.time.past.hours": "小时前",
+	"words.time.past.minute": "一分钟前",
+	"words.time.past.minutes": "几分钟前",
+	"words.time.past.month": "一个月前",
+	"words.time.past.months": " 几个月前",
+	"words.time.past.seconds": "几秒钟前",
+	"words.time.past.year": "一年前",
+	"words.time.past.years": "几年前"
 }

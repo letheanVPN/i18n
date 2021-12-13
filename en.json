@@ -95,5 +95,16 @@
 	"words.things.menu": "Menu",
 	"words.things.mining-pool": "Mining Pool",
 	"words.things.page": "Page",
-	"words.things.problem": "Problem"
+	"words.things.problem": "Problem",
+	"words.time.past.day": "a day ago",
+	"words.time.past.days": "days ago",
+	"words.time.past.hour": "an hour ago",
+	"words.time.past.hours": "hours ago",
+	"words.time.past.minute": "a minute ago",
+	"words.time.past.minutes": "minutes ago",
+	"words.time.past.month": "a month ago",
+	"words.time.past.months": " months ago",
+	"words.time.past.seconds": "a few seconds ago",
+	"words.time.past.year": "a year ago",
+	"words.time.past.years": "years ago"
 }

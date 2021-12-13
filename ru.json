@@ -95,5 +95,16 @@
 	"words.things.menu": "Меню",
 	"words.things.mining-pool": "Майнинг пул",
 	"words.things.page": "Страница",
-	"words.things.problem": "Проблема"
+	"words.things.problem": "Проблема",
+	"words.time.past.day": "день назад",
+	"words.time.past.days": "дней назад",
+	"words.time.past.hour": "час назад",
+	"words.time.past.hours": "несколько часов назад",
+	"words.time.past.minute": "минуту назад",
+	"words.time.past.minutes": "несколько минут назад",
+	"words.time.past.month": "месяц назад",
+	"words.time.past.months": " несколько месяцев назад",
+	"words.time.past.seconds": "несколько секунд назад",
+	"words.time.past.year": "год назад",
+	"words.time.past.years": "много лет назад"
 }
