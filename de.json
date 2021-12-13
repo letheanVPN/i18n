@@ -1,5 +1,4 @@
 {
-	"button.install-blockchain": "Blockchain installieren",
 	"charts.network-hashrate.subtitle": "Daten bereitgestellt von",
 	"charts.network-hashrate.title": "Netzwerk-Hash-Rate",
 	"lang.de": "Deutsche",
@@ -21,7 +20,6 @@
 	"menu.text.settings": "die Einstellungen",
 	"menu.text.vpn": "VPN",
 	"menu.text.wallet": "Brieftasche",
-	"names.mining-pool": "Bergbaupool",
 	"plugin.lthn.chain.table.recent-blocks.headings.age": "Alter",
 	"plugin.lthn.chain.table.recent-blocks.headings.hash": "Hash",
 	"plugin.lthn.chain.table.recent-blocks.headings.height": "Höhe",
@@ -32,6 +30,7 @@
 	"plugin.lthn.chain.words.grey_peerlist_size": "P2P graue Kollegen",
 	"plugin.lthn.chain.words.height": "Höhe",
 	"plugin.lthn.chain.words.incoming_connections_count": "P2P-Eingang",
+	"plugin.lthn.chain.words.install-blockchain": "Blockchain installieren",
 	"plugin.lthn.chain.words.outgoing_connections_count": "P2P-Ausgang",
 	"plugin.lthn.chain.words.status": "Status",
 	"plugin.lthn.chain.words.target": "Ziel",
@@ -79,13 +78,15 @@
 	"words.actions.new": "Neu",
 	"words.actions.report": "Bericht",
 	"words.actions.save": "sparen",
-	"words.documentation": "Dokumentation",
 	"words.states.installing": "Installieren",
 	"words.states.installing_desc": "Wir laden die ausführbaren Blockchain-Dateien von GitHub in Ihr Lethean-Benutzerverzeichnis herunter.",
+	"words.states.loading": "Wird geladen",
 	"words.states.not_installed": "Nicht installiert",
 	"words.states.not_installed_desc": "Klicken Sie auf Blockchain installieren, um die neueste Lethean Blockchain CLI . herunterzuladen",
 	"words.things.button": "Taste",
+	"words.things.documentation": "Dokumentation",
 	"words.things.menu": "Speisekarte",
+	"words.things.mining-pool": "Bergbaupool",
 	"words.things.page": "Seite",
 	"words.things.problem": "Problem"
 }

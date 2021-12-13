@@ -1,5 +1,4 @@
 {
-	"button.install-blockchain": "Установить блокчейн",
 	"charts.network-hashrate.subtitle": "Данные предоставлены",
 	"charts.network-hashrate.title": "Скорость хэширования в сети",
 	"lang.de": "Немецкий",
@@ -21,7 +20,6 @@
 	"menu.text.settings": "Настройки",
 	"menu.text.vpn": "VPN",
 	"menu.text.wallet": "Кошелек",
-	"names.mining-pool": "Майнинг пул",
 	"plugin.lthn.chain.table.recent-blocks.headings.age": "возраст",
 	"plugin.lthn.chain.table.recent-blocks.headings.hash": "гашиш",
 	"plugin.lthn.chain.table.recent-blocks.headings.height": "Рост",
@@ -32,6 +30,7 @@
 	"plugin.lthn.chain.words.grey_peerlist_size": "P2P Серые узлы",
 	"plugin.lthn.chain.words.height": "Рост",
 	"plugin.lthn.chain.words.incoming_connections_count": "P2P входящий",
+	"plugin.lthn.chain.words.install-blockchain": "Установить блокчейн",
 	"plugin.lthn.chain.words.outgoing_connections_count": "P2P Out",
 	"plugin.lthn.chain.words.status": "Статус",
 	"plugin.lthn.chain.words.target": "цель",
@@ -79,13 +78,15 @@
 	"words.actions.new": "Новый",
 	"words.actions.report": "Отчет",
 	"words.actions.save": "Сохранить",
-	"words.documentation": "Документация",
 	"words.states.installing": "установка",
 	"words.states.installing_desc": "Мы загружаем исполняемые файлы блокчейна с GitHub в ваш каталог пользователей Lethean.",
+	"words.states.loading": "погрузка",
 	"words.states.not_installed": "Не установлено",
 	"words.states.not_installed_desc": "Нажмите «Установить блокчейн», чтобы загрузить последнюю версию интерфейса командной строки Lethean Blockchain.",
 	"words.things.button": "Кнопка",
+	"words.things.documentation": "Документация",
 	"words.things.menu": "Меню",
+	"words.things.mining-pool": "Майнинг пул",
 	"words.things.page": "Страница",
 	"words.things.problem": "Проблема"
 }
