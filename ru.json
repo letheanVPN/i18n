@@ -38,6 +38,8 @@
 	"plugin.lthn.chain.words.height": "Высота",
 	"plugin.lthn.chain.words.incoming_connections_count": "P2P In",
 	"plugin.lthn.chain.words.install-blockchain": "Установить блокчейн",
+	"plugin.lthn.chain.words.last_block_time": "Синхронизировано с блоком:",
+	"plugin.lthn.chain.words.loading-data": "Загрузка данных блокчейна",
 	"plugin.lthn.chain.words.outgoing_connections_count": "P2P Out",
 	"plugin.lthn.chain.words.status": "Статус",
 	"plugin.lthn.chain.words.target": "цель",

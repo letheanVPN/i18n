@@ -38,6 +38,8 @@
 	"plugin.lthn.chain.words.height": "Altura",
 	"plugin.lthn.chain.words.incoming_connections_count": "P2P entrante",
 	"plugin.lthn.chain.words.install-blockchain": "Instalar Blockchain",
+	"plugin.lthn.chain.words.last_block_time": "Sincronizado para bloquear:",
+	"plugin.lthn.chain.words.loading-data": "Cargando datos de Blockchain",
 	"plugin.lthn.chain.words.outgoing_connections_count": "P2P hacia fuera",
 	"plugin.lthn.chain.words.status": "Estado",
 	"plugin.lthn.chain.words.target": "Objetivo",
