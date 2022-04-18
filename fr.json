@@ -38,6 +38,7 @@
 	"app.lthn.chain.words.loading-data": "Chargement des données de la blockchain",
 	"app.lthn.chain.words.major_version": "Version majeure",
 	"app.lthn.chain.words.miner_transaction": "Transaction de mineur",
+	"app.lthn.chain.words.miner_tx": "Transaction de mineur POW",
 	"app.lthn.chain.words.minor_version": "Version mineure",
 	"app.lthn.chain.words.nonce": "Bloquer la solution",
 	"app.lthn.chain.words.orphan_status": "Bloc valide",

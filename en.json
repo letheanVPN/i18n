@@ -38,6 +38,7 @@
 	"app.lthn.chain.words.loading-data": "Loading Blockchain Data",
 	"app.lthn.chain.words.major_version": "Major Version",
 	"app.lthn.chain.words.miner_transaction": "Miner Transaction",
+	"app.lthn.chain.words.miner_tx": "POW Miner Transaction",
 	"app.lthn.chain.words.minor_version": "Minor Version",
 	"app.lthn.chain.words.nonce": "Block Solution",
 	"app.lthn.chain.words.orphan_status": "Valid Block",

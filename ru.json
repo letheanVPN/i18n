@@ -38,6 +38,7 @@
 	"app.lthn.chain.words.loading-data": "Загрузка данных блокчейна",
 	"app.lthn.chain.words.major_version": "основная версия",
 	"app.lthn.chain.words.miner_transaction": "Шахтерская транзакция",
+	"app.lthn.chain.words.miner_tx": "Транзакция POW Miner",
 	"app.lthn.chain.words.minor_version": "минорная версия",
 	"app.lthn.chain.words.nonce": "Блочное решение",
 	"app.lthn.chain.words.orphan_status": "Действительный блок",

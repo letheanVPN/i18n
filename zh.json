@@ -38,6 +38,7 @@
 	"app.lthn.chain.words.loading-data": "加载区块链数据",
 	"app.lthn.chain.words.major_version": "主要版本",
 	"app.lthn.chain.words.miner_transaction": "",
+	"app.lthn.chain.words.miner_tx": "POW 矿工交易",
 	"app.lthn.chain.words.minor_version": "次要版本",
 	"app.lthn.chain.words.nonce": "块解决方案",
 	"app.lthn.chain.words.orphan_status": "有效区块",

@@ -38,6 +38,7 @@
 	"app.lthn.chain.words.loading-data": "Завантаження даних Blockchain",
 	"app.lthn.chain.words.major_version": "Основна версія",
 	"app.lthn.chain.words.miner_transaction": "Транзакція майнера",
+	"app.lthn.chain.words.miner_tx": "Транзакція майнера для військовополонених",
 	"app.lthn.chain.words.minor_version": "Друга версія",
 	"app.lthn.chain.words.nonce": "Блок рішення",
 	"app.lthn.chain.words.orphan_status": "Дійсний блок",
