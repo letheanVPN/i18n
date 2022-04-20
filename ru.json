@@ -57,6 +57,7 @@
 	"app.lthn.chain.words.valid": "Действительный блок",
 	"app.lthn.chain.words.version": "Версия структуры блока",
 	"app.lthn.chain.words.white_peerlist_size": "P2P Белый список",
+	"app.lthn.console.title": "Приставка",
 	"app.lthn.wallet.button.create-wallet": "Создать кошелек",
 	"app.lthn.wallet.button.restore-wallet": "Восстановить кошелек",
 	"app.lthn.wallet.button.unlock-wallet": "отпереть",

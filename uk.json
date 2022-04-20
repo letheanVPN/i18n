@@ -57,6 +57,7 @@
 	"app.lthn.chain.words.valid": "Дійсний блок",
 	"app.lthn.chain.words.version": "Версія блокової структури",
 	"app.lthn.chain.words.white_peerlist_size": "Білий список P2P",
+	"app.lthn.console.title": "консоль",
 	"app.lthn.wallet.button.create-wallet": "створити гаманець",
 	"app.lthn.wallet.button.restore-wallet": "Відновити гаманець",
 	"app.lthn.wallet.button.unlock-wallet": "розблокувати",

@@ -57,6 +57,7 @@
 	"app.lthn.chain.words.valid": "Valid Block",
 	"app.lthn.chain.words.version": "Block Structure Version",
 	"app.lthn.chain.words.white_peerlist_size": "P2P Whitelist",
+	"app.lthn.console.title": "Console",
 	"app.lthn.wallet.button.create-wallet": "Create Wallet",
 	"app.lthn.wallet.button.restore-wallet": "Restore Wallet",
 	"app.lthn.wallet.button.unlock-wallet": "Unlock",

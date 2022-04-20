@@ -57,6 +57,7 @@
 	"app.lthn.chain.words.valid": "有效区块",
 	"app.lthn.chain.words.version": "块结构版本",
 	"app.lthn.chain.words.white_peerlist_size": "P2P白名单",
+	"app.lthn.console.title": "安慰",
 	"app.lthn.wallet.button.create-wallet": "创建钱包",
 	"app.lthn.wallet.button.restore-wallet": "恢复钱包",
 	"app.lthn.wallet.button.unlock-wallet": "开锁",

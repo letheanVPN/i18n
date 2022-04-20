@@ -57,6 +57,7 @@
 	"app.lthn.chain.words.valid": "Gültiger Block",
 	"app.lthn.chain.words.version": "Version der Blockstruktur",
 	"app.lthn.chain.words.white_peerlist_size": "P2P-Whitelist",
+	"app.lthn.console.title": "Konsole",
 	"app.lthn.wallet.button.create-wallet": "Brieftasche erstellen",
 	"app.lthn.wallet.button.restore-wallet": "Brieftasche wiederherstellen",
 	"app.lthn.wallet.button.unlock-wallet": "Freischalten",

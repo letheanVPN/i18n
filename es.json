@@ -57,6 +57,7 @@
 	"app.lthn.chain.words.valid": "Bloque válido",
 	"app.lthn.chain.words.version": "Versión de estructura de bloque",
 	"app.lthn.chain.words.white_peerlist_size": "Lista blanca P2P",
+	"app.lthn.console.title": "Consola",
 	"app.lthn.wallet.button.create-wallet": "Crear billetera",
 	"app.lthn.wallet.button.restore-wallet": "Restaurar billetera",
 	"app.lthn.wallet.button.unlock-wallet": "Desbloquear",

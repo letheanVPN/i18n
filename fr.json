@@ -57,6 +57,7 @@
 	"app.lthn.chain.words.valid": "Bloc valide",
 	"app.lthn.chain.words.version": "Version de structure de bloc",
 	"app.lthn.chain.words.white_peerlist_size": "Liste blanche P2P",
+	"app.lthn.console.title": "Console",
 	"app.lthn.wallet.button.create-wallet": "Créer un portefeuille",
 	"app.lthn.wallet.button.restore-wallet": "Restaurer le portefeuille",
 	"app.lthn.wallet.button.unlock-wallet": "Ouvrir",
