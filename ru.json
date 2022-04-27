@@ -1,4 +1,8 @@
 {
+	"app.boot.download-check": "Проверка обновлений",
+	"app.boot.folder-check": "Проверка установки",
+	"app.boot.server-check": "Проверка сервера",
+	"app.boot.start-runtime": "Запуск рабочего стола",
 	"app.lthn.chain.daemons.lethean-blockchain-export": "Блокчейн Экспорт",
 	"app.lthn.chain.daemons.lethean-blockchain-import": "Блокчейн Импорт",
 	"app.lthn.chain.daemons.lethean-wallet-cli": "Кошелек CLI",

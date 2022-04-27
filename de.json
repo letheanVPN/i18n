@@ -1,4 +1,8 @@
 {
+	"app.boot.download-check": "Nach Updates suchen",
+	"app.boot.folder-check": "Setup-Check",
+	"app.boot.server-check": "Überprüfung des Servers",
+	"app.boot.start-runtime": "Desktop starten",
 	"app.lthn.chain.daemons.lethean-blockchain-export": "Blockchain-Export",
 	"app.lthn.chain.daemons.lethean-blockchain-import": "Blockchain-Import",
 	"app.lthn.chain.daemons.lethean-wallet-cli": "Brieftasche CLI",
